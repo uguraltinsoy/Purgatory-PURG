@@ -4,7 +4,7 @@
 
 // OpenZeppelin Contracts (last updated v5.0.0) (token/ERC20/IERC20.sol)
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.24;
 
 /**
  * @dev Interface of the ERC20 standard as defined in the EIP.
@@ -729,7 +729,9 @@ abstract contract Ownable is Context {
 
 pragma solidity ^0.8.24;
 
-// OpenZeppelin 5.x ERC20 ve Ownable
+// OpenZeppelin 5.x ERC20 ve Ownable
+
+
 
 /// @title Purgatory Token (PURG) - BEP20 / ERC20
 /// @notice Güvenli, CMC uyumlu, mint limiti ile topluluk dostu
