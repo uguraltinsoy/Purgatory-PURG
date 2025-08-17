@@ -245,10 +245,11 @@
 	},
 	"sources": {
 		"Purgatory_flattened.sol": {
-			"keccak256": "0xee99d1b42c9b74b305877e01d587d490941933cf328936bafca7d7334244bd23",
+			"keccak256": "0xb93a09345e7cdd90a7cda5249258231cdebb09d9949c36987f94dd122f4fa14c",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://f19dd8c28a2e347c7253d9defe1f33b661196b095183c759b4afbc61086fd6e0",
-				"dweb:/ipfs/Qmf1tHHoQwe1RjpdHUDwGopD74FXnP9nkyuN62dVcq3nHf"
+				"bzz-raw://b31e842e721b9b5820a6252bed77960fbb0ab2d7a5f6d024caffc9bf9c256f18",
+				"dweb:/ipfs/QmX5oL87WnqdgwhA8KwvTZnZPq4NCC1Xq51GkYnycgn45s"
 			]
 		}
 	},
