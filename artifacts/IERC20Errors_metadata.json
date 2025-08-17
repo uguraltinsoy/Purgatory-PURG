@@ -168,18 +168,18 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
 		"Purgatory_flattened.sol": {
-			"keccak256": "0xb93a09345e7cdd90a7cda5249258231cdebb09d9949c36987f94dd122f4fa14c",
+			"keccak256": "0x66f584dcbc471bd1ad51281202f99d98799365bb282a585c012a7adf9e1230ab",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b31e842e721b9b5820a6252bed77960fbb0ab2d7a5f6d024caffc9bf9c256f18",
-				"dweb:/ipfs/QmX5oL87WnqdgwhA8KwvTZnZPq4NCC1Xq51GkYnycgn45s"
+				"bzz-raw://eda6ac5c95c31d86488623aeb259476b3b0cfe10fcfa8fe717dcf69a139aa9d7",
+				"dweb:/ipfs/QmX2HaTZPCd2nZB8kvM9vz7GyMd4872cLktMaFk4473B6A"
 			]
 		}
 	},
