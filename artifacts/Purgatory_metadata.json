@@ -594,11 +594,11 @@
 	},
 	"sources": {
 		"Purgatory.sol": {
-			"keccak256": "0x9e1a2dcd127961026b2c446e4fab4e09eafe987fb12894f9f14ee4a67c5fe384",
+			"keccak256": "0x5367e1d6ea87a88e40cd96840f79acf94d5a6e864c4c56fd4a7c2a5688fb30bb",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61f9df5f4c72dee5e6ccb15a14cd4167d1f5bb524e03dc0eec3fa9cb6d3caedf",
-				"dweb:/ipfs/QmRYeYVCB9iwNMT4dMiAgKSorZW6av4XxVMdgRA6K4f2Pr"
+				"bzz-raw://063e9027f36c3d102d873c6c2ef195f4f5016a35739657b911c2471bdb8c72e3",
+				"dweb:/ipfs/QmXyTgDqZfQfq7QpZL8iPpLkojbWheKjQJhYbyjR4JWqE5"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v5.0/contracts/access/Ownable.sol": {

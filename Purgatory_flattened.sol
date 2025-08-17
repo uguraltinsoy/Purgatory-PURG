@@ -727,7 +727,7 @@ abstract contract Ownable is Context {
 // File: Purgatory.sol
 
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.24;
 
 // OpenZeppelin 5.x ERC20 ve Ownable
 
